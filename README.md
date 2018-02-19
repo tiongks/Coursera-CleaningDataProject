@@ -1,17 +1,14 @@
----
-title: "README"
-author: "Eric Tiongson"
-date: "2/19/2018"
-output: html_document
----
 
 
 # Getting and Cleaning Data - Coursera Project
 
 ## Objective
 
+The set of scripts in the project merges test and training data from accelerometers collected from Samsung Galaxy S smartphones.
 
+A full description of the data set can seen in [UCI's Machine Learning repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-## Including Plots
+## Project Files
 
-
+*run_analysis.R* 
+The R script downloads and extracts data from the [archive](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
