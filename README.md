@@ -9,7 +9,7 @@ A full description of the data set can seen in [UCI's Machine Learning repositor
 
 ### Project Files
 
-[*run_analysis.R*[(run_analysis.R) : This R script contains the code that downloaded and transformed data from the [archive](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
+[*run_analysis.R*](run_analysis.R) : This R script contains the code that downloaded and transformed data from the [archive](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 [*tidy_data.txt*](tidy_data.txt) : The resulting summarized data is stored in this file.
 
