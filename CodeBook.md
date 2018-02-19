@@ -21,6 +21,8 @@ The *run_analysis.R* script contains a series of steps that performed the follow
 
 The *tidy_data.txt* file contains the mean per subject and activity of the following variables:
 
+|variable|variable|
+|----------------------------------------|--------------------------------------|
 | "tBodyAcc-mean()-X"                    | "tBodyAcc-mean()-Y"                  |  
 | "tBodyAcc-mean()-Z"                    | "tBodyAcc-std()-X"                   |  
 | "tBodyAcc-std()-Y"                     | "tBodyAcc-std()-Z"                   |  
