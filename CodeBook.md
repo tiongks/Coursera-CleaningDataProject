@@ -19,9 +19,24 @@ The *run_analysis.R* script contains a series of steps that performed the follow
 
 ### Tidy Data
 
-The *tidy_data.txt* file contains the mean per subject and activity of the following variables:
+The *tidy_data.txt* file contains the mean per subject and activity of the following mean and std deviation variables listed in the following section.
 
-|variable|variable|
+#### Subjects and Activities
+
+Additionally, the combined test and training data in *tidy_data.txt* holds data for 30 unique subjects and the following activities:
+
+|label id|    activity|
+|--|------------------|
+|1 |           WALKING|
+|2 |  WALKING_UPSTAIRS|
+|3 |WALKING_DOWNSTAIRS|
+|4 |           SITTING|
+|5 |          STANDING|
+|6 |            LAYING|
+
+#### Mean and Standard Deviation Variables
+
+|                 variable               |                variable              |
 |----------------------------------------|--------------------------------------|
 | "tBodyAcc-mean()-X"                    | "tBodyAcc-mean()-Y"                  |  
 | "tBodyAcc-mean()-Z"                    | "tBodyAcc-std()-X"                   |  
