@@ -3,7 +3,7 @@
 
 ### Objective
 
-The set of scripts in the project merges test and training data from accelerometers collected from Samsung Galaxy S smartphones.
+The set of scripts in the project merges and summarizes test and training data from accelerometers collected from Samsung Galaxy S smartphones.
 
 A full description of the data set can seen in [UCI's Machine Learning repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
