@@ -13,4 +13,4 @@ A full description of the data set can seen in [UCI's Machine Learning repositor
 
 *tidy_data.txt* : The resulting summarized data is stored in this file.
 
-*CodeBook.md* :This code book contains the description of the data in "tidy_data.txt", it also explains the transformations that were performed on the data.
+[*CodeBook.md*](https://github.com/tiongks/Coursera-CleaningDataProject/blob/master/CodeBook.md) :This code book contains the description of the data in "tidy_data.txt", it also explains the transformations that were performed on the data.
